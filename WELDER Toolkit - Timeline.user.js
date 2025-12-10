@@ -2,8 +2,8 @@
 // @name         WELDER Toolkit - Timeline
 // @namespace    https://welder.nl/
 // @version      0.0.1
-// @updateURL    https://raw.githubusercontent.com/enricowelder/WELDER-Toolkit/refs/heads/main/WELDER%20Toolkit%20-%20Timeline.js
-// @downloadURL  https://raw.githubusercontent.com/enricowelder/WELDER-Toolkit/refs/heads/main/WELDER%20Toolkit%20-%20Timeline.js
+// @updateURL    https://raw.githubusercontent.com/enricowelder/WELDER-Toolkit/refs/heads/main/WELDER%20Toolkit%20-%20Timeline.user.js
+// @downloadURL  https://raw.githubusercontent.com/enricowelder/WELDER-Toolkit/refs/heads/main/WELDER%20Toolkit%20-%20Timeline.user.js
 // @description  Post Finder, Top5, CSV Export, Engagement Graph, Pinned Detector, Active Accounts Leaderboard
 // @author       Enrico Rijken
 // @match        https://*.welder.nl/*
