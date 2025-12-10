@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WLDR Toolkit - Timeline
 // @namespace    https://welder.nl/
-// @version      0.0.4
+// @version      0.0.5
 // @updateURL    https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/WLDR%20Toolkit%20-%20Timeline.user.js
 // @downloadURL  https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/WLDR%20Toolkit%20-%20Timeline.user.js
 // @description  Post Finder, Top5, CSV Export, Engagement Graph, Pinned Detector, Active Accounts Leaderboard
@@ -769,7 +769,7 @@
         /******** FLOATING BUTTON ********/
         const btn = document.createElement("div");
         btn.id = "welderToolkitBtn";
-        btn.innerHTML = '<img src="https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/wldr.svg" alt="icon" style="width: 1.75em; height: 1.75em; vertical-align: middle;">';
+        btn.innerHTML = '<img src="https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/wldrlogo.svg" alt="icon" style="width: 1.75em; height: 1.75em; vertical-align: middle;">';
         btn.style.cssText = `
             position:fixed;
             bottom:20px;
@@ -805,7 +805,7 @@
         `;
         panel.innerHTML = `
             <div style="font-weight:bold;display:flex;align-items:center;gap:6px;margin-bottom:10px;">
-                <img src="https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/wldr.svg" style="height:22px;">
+                <img src="https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/wldrlogo.svg" style="height:22px;">
                 <span>Toolkit</span>
             </div>
 
@@ -829,7 +829,7 @@
             </div>
 
             <hr style="margin:12px 0;">
-            <div class="small-label">v0.0.4 — Prototype</div>
+            <div class="small-label">v0.0.5 — Prototype</div>
         `;
         document.body.appendChild(panel);
 
@@ -926,7 +926,7 @@
 
             } else {
                 // CLOSE MAIN TOOLKIT
-                btn.innerHTML = '<img src="https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/wldr.svg" alt="icon" style="width: 1.75em; height: 1.75em; vertical-align: middle;">';
+                btn.innerHTML = '<img src="https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/wldrlogo.svg" alt="icon" style="width: 1.75em; height: 1.75em; vertical-align: middle;">';
                 btn.classList.remove("open");
                 panel.classList.remove("open");
 
