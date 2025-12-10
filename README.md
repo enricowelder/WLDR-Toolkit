@@ -1,6 +1,6 @@
 # WELDER Toolkit – Timeline
 
-A Tampermonkey script that adds timeline features to the WELDER Toolkit.
+A TamperMonkey script that enhances WELDER timeline features.
 
 ---
 
