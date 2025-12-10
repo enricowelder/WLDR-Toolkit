@@ -1,6 +1,6 @@
 # WLDR Toolkit – Timeline
 
-A TamperMonkey script that enhances WELDER timeline features.
+A TamperMonkey script that enhances WLDR timeline features.
 
 ---
 
