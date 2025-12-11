@@ -15,9 +15,10 @@ Click the link below to install TamperMonkey:
 
 ## Step 2: Enable userscripts in Extension settings
 
-Click the link below to open the Extension settings page of TamperMonkey. In here, enable the loading of userscripts:
+Browse to the link below to open the Extension settings page of TamperMonkey. In here, enable the loading of userscripts:
 
-👉 **[Enable userscripts](chrome://extensions/?id=dhdgffkkebhmkfjojejmpbldmpobfkfo)**
+👉 **Enable userscripts:**
+`chrome://extensions/?id=dhdgffkkebhmkfjojejmpbldmpobfkfo`
 
 ---
 
