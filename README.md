@@ -1,7 +1,7 @@
 # <img width="40" height="26" alt="image" src="https://github.com/user-attachments/assets/4b41aebe-6322-4801-bf54-566d48b5afa8" /> Toolkit – Setup
 
 
-A TamperMonkey script that enhances platforms with extra WLDR toolkit features.
+A community-made management script that enhances platforms with extra WLDR toolkit features, powered by TamperMonkey.
 
 ---
 
