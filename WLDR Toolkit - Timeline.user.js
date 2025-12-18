@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         WLDR Toolkit - Timeline
 // @namespace    https://welder.nl/
-// @version      0.1.1
-// @updateURL    https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/WLDR%20Toolkit%20-%20Timeline.user.js
-// @downloadURL  https://raw.githubusercontent.com/enricowelder/WLDR-Toolkit/refs/heads/main/WLDR%20Toolkit%20-%20Timeline.user.js
+// @version      0.1.2
+// @updateURL    https://raw.githubusercontent.com/oc-irne/WLDR-Toolkit/refs/heads/main/WLDR%20Toolkit%20-%20Timeline.user.js
+// @downloadURL  https://raw.githubusercontent.com/oc-irne/WLDR-Toolkit/refs/heads/main/WLDR%20Toolkit%20-%20Timeline.user.js
 // @description  Post Finder, Top5, CSV Export, Engagement Graph, Pinned Detector, Active Accounts Leaderboard
-// @author       Enrico Rijken
+// @author       ocirne
 // @match        https://*.welder.nl/*
 // @match        https://*.welder.cloud/*
 // @grant        none
