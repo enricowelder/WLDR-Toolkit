@@ -30,3 +30,5 @@ Click the link below to load WLDR Toolkit:
 👉 **[Install WLDR Toolkit – Timeline](https://raw.githubusercontent.com/oc-irne/WLDR-Toolkit/main/WLDR%20Toolkit%20-%20Timeline.user.js)**
 
 ---
+
+<img width="514" height="457" alt="Schermafbeelding 2025-12-18 163401" src="https://github.com/user-attachments/assets/cb5f7c37-110d-4516-b73d-4ac036332533" />
