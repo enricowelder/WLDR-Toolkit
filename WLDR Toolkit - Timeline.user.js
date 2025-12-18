@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WLDR Toolkit - Timeline
 // @namespace    https://github.com/oc-irne/WLDR-Toolkit/blob/main/README.md
-// @version      0.1.3
+// @version      0.1.4
 // @updateURL    https://raw.githubusercontent.com/oc-irne/WLDR-Toolkit/refs/heads/main/WLDR%20Toolkit%20-%20Timeline.user.js
 // @downloadURL  https://raw.githubusercontent.com/oc-irne/WLDR-Toolkit/refs/heads/main/WLDR%20Toolkit%20-%20Timeline.user.js
 // @description  Post Finder, Top5, CSV Export, Engagement Graph, Pinned Detector, Active Accounts Leaderboard
@@ -71,7 +71,7 @@
 
     let lastPosts = null; // cache for CSV / graph / leaderboards
     let timelineScanned = false;
-    let toolkitUnlocked = false; // 🔒 passcode gate (once per page load)
+    let toolkitUnlocked = true; // 🔒 passcode gate (once per page load)
 
     /**********************************************
      * DRAGGABLE HELPER (for Tool Output Window)
@@ -778,7 +778,7 @@
   style="width: 1.5em; height: 1.5em; vertical-align: middle;"
 >
   <style>
-    .s0 { fill: var(--text-on-white); }
+    .s0 { fill: #FFF; }
   </style>
   <g>
     <path fill-rule="evenodd" class="s0"
@@ -980,7 +980,7 @@
   style="width: 1.5em; height: 1.5em; vertical-align: middle;"
 >
   <style>
-    .s0wldr { fill: var(--text-on-white); }
+    .s0wldr { fill: #FFF; }
   </style>
   <g>
     <path fill-rule="evenodd" class="s0wldr"
