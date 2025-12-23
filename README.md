@@ -25,9 +25,10 @@ Browse to the link below to open the Extension settings page of TamperMonkey. In
 
 ## Step 3: Load WLDR Toolkit
 
-Click the link below to load WLDR Toolkit:
+Click the links below to load various WLDR Toolkits:
 
 👉 **[Install WLDR Toolkit – Timeline](https://raw.githubusercontent.com/oc-irne/WLDR-Toolkit/main/WLDR%20Toolkit%20-%20Timeline.user.js)**
+👉 **[Install WLDR Toolkit – Sidemenu](https://raw.githubusercontent.com/oc-irne/WLDR-Toolkit/main/WLDR%20Toolkit%20-%20Sidemenu.user.js)**
 
 ---
 
